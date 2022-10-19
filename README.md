@@ -1,1 +1,1 @@
-# alorithms-implemention
+# algorithms-implemention
